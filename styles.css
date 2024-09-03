@@ -7,6 +7,8 @@ body{
     background-image: url(image/Boreals.jpg); 
     background-size: cover;
     background-repeat: no-repeat;
+    color: white;
+
     
     /* color : white; */
 }
@@ -41,10 +43,10 @@ textarea{
 }
 
 .counter{
-    font-size: 0.8rem;
-    
-    color: #555;
-}
+    font-size: 2rem;
+  
+    /* color: #555;*/
+} 
 
 #toggle{
     background-color: #4285f4;
