@@ -65,11 +65,10 @@ textarea{
 }
 
 footer {
-    background-color: var(--cor5);
     color:white;
     text-align: center;
     font-size:0.9em;
-    padding:5px;
+    padding:1em;
 }
 footer a {
     color: white;
@@ -79,5 +78,5 @@ footer a {
 }
 footer a:hover {
     text-decoration:underline;
-    color: var(--cor1);
+    color: red;
 }
